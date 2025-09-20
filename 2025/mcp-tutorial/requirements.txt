@@ -1,0 +1,6 @@
+# requirement related to the mcp tutorial. If need to install ollama from ollama.com
+
+ollama==0.5.4
+langchain-ollama==0.3.8
+"mcp[cli]"
+openai
